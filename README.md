@@ -44,5 +44,11 @@ que gerencia a lista de alunos em cada disciplina; e uma classe principal que co
 <h3>Prova 3 cadastro veiculo em uma concessionária</h3>
 <p>Este projeto é um sistema de gerenciamento de veículos para uma concessionária, desenvolvido em Java. Ele permite o cadastro de carros e motos, calculando a depreciação anual com base no ano de fabricação e considerando características específicas, como a cilindrada das motos. Além disso, o sistema oferece a funcionalidade de gerar um resumo dos veículos cadastrados, permitindo visualizar os veículos a partir de um ano específico. O projeto é estruturado em classes que representam os veículos, a concessionária e a interação com o usuário.</p>
 
+<hr>
+
+<h3>Prova 4 controle emissão e consumo</h3>
+<p>Este projeto é um sistema de gerenciamento de ônibus, desenvolvido em Java. Ele inclui diferentes tipos de ônibus: elétrico, gasolina e híbrido, cada um com suas características específicas, como capacidade, voltagem e grau de emissão. O sistema calcula a aceleração, consumo e emissão de cada tipo de ônibus, permitindo que o usuário visualize as informações detalhadas de cada um. As classes e interfaces são utilizadas para estruturar o código de forma modular, facilitando a manutenção e a expansão do sistema.</p>
+
+
 
 
