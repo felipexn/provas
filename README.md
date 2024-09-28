@@ -17,3 +17,16 @@
 
 <h2>Prova 4 - Sistema de Contas Bancárias em c</h2>
 <p>Nesta prova, foi criado um programa que simula operações bancárias com contas correntes e poupanças. O usuário pode realizar saques e investir dinheiro em ambas as contas. O programa calcula o saldo restante após o saque e simula o retorno de um investimento com base no número de meses escolhido. A taxa de rendimento é diferente para cada tipo de conta, e o saldo final é exibido após o investimento.</p>
+
+<hr>
+
+<h2>Provas de Programação Orientada a Objetos (POO)</h2>
+
+<h3>Prova 1</h3>
+<p>
+A primeira prova de POO consiste na implementação de um sistema básico em Java para gerenciar disciplinas e alunos. 
+O sistema permite criar disciplinas e cadastrar alunos, além de atribuir e calcular a média das notas de cada aluno. 
+O projeto é dividido em três classes: <code>Aluno</code>, que representa os dados dos alunos; <code>Disciplina</code>, 
+que gerencia a lista de alunos em cada disciplina; e uma classe principal que coordena as interações entre o usuário e o sistema.
+</p>
+
