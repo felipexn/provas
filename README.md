@@ -1,11 +1,11 @@
 <h1>Repositório de Provas</h1>
 
-<h2>Prova 1 - Linguagem e Lógica de Programação</h2>
+<h2>Prova 1 - Calculo peso ideal em portugol</h2>
 <p>Essa prova consistiu na criação de um programa que calcula o peso ideal de uma pessoa com base em sua altura e sexo. O programa faz a leitura de dados de vários clientes, como altura, peso e sexo, e calcula o peso ideal usando fórmulas específicas para homens e mulheres. No final, o programa conta e exibe o número de pessoas que estão acima do peso ideal.</p>
 
 <hr>
 
-<h2>Prova 2 - Linguagem C</h2>
+<h2>Prova 2 - Classificar nota dos alunos</h2>
 <p>Nesta prova, foi desenvolvido um programa em C para classificar alunos com base em suas notas e número de faltas. O programa lê a nota de cada aluno e o número de faltas, e depois classifica o aluno como "INS", "REG", "BOM" ou "EXC", dependendo da sua nota. Se o número de faltas for maior que 75% dos dias letivos, o aluno é reprovado por faltas. O programa também calcula a maior e menor nota, além da média da turma.</p>
 
 <hr>
