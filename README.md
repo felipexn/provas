@@ -39,4 +39,10 @@ que gerencia a lista de alunos em cada disciplina; e uma classe principal que co
 <h3>Prova 2 distância  entre dois pontos</h3>
 <p>Esta prova implementa classes para representar pontos em um plano cartesiano e realiza operações como cálculo da distância entre dois pontos e área de um retângulo definido por dois pontos. A classe <code>Ponto</code> armazena as coordenadas de cada ponto, enquanto a classe <code>Operações</code> contém métodos estáticos para calcular a distância e a área do retângulo. O programa principal lê as coordenadas de quatro pontos e exibe a distância e a área entre os pontos especificados.</p>
 
+<hr>
+
+<h3>Prova 3 cadastro veiculo em uma concessionária</h3>
+<p>Este projeto é um sistema de gerenciamento de veículos para uma concessionária, desenvolvido em Java. Ele permite o cadastro de carros e motos, calculando a depreciação anual com base no ano de fabricação e considerando características específicas, como a cilindrada das motos. Além disso, o sistema oferece a funcionalidade de gerar um resumo dos veículos cadastrados, permitindo visualizar os veículos a partir de um ano específico. O projeto é estruturado em classes que representam os veículos, a concessionária e a interação com o usuário.</p>
+
+
 
