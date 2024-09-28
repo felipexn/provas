@@ -34,3 +34,9 @@ O projeto é dividido em três classes: <code>Aluno</code>, que representa os da
 que gerencia a lista de alunos em cada disciplina; e uma classe principal que coordena as interações entre o usuário e o sistema.
 </p>
 
+<hr>
+
+<h3>Prova 2 distância  entre dois pontos</h3>
+<p>Esta prova implementa classes para representar pontos em um plano cartesiano e realiza operações como cálculo da distância entre dois pontos e área de um retângulo definido por dois pontos. A classe <code>Ponto</code> armazena as coordenadas de cada ponto, enquanto a classe <code>Operações</code> contém métodos estáticos para calcular a distância e a área do retângulo. O programa principal lê as coordenadas de quatro pontos e exibe a distância e a área entre os pontos especificados.</p>
+
+
